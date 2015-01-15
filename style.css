@@ -1,0 +1,37 @@
+body {
+    font-style: Georgia;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: #ddd 1px dashed;
+    color: #444;
+}
+
+a:hover {
+    color: #999;
+    transition: all ease-in .2s;
+}
+
+#container {
+    padding: 20px 40px;
+}
+
+#container h1 {
+    font-size: 2em;
+    line-height: 2.5em;
+    font-variant: small-caps;
+}
+
+#container div {
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    line-height: 2em;
+}
+
+ul li {
+    line-height: 1.5em;
+}
